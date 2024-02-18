@@ -1,7 +1,7 @@
 # Git tut wrd
 
-This repo is fore demo
+This repo is for demo
 
--html
--css
--java
+- html
+- css
+- java
